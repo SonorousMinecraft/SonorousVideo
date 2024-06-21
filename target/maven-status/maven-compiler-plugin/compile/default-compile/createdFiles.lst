@@ -1,0 +1,7 @@
+com/sereneoasis/video/VideoFrameGrabber.class
+com/sereneoasis/utils/PacketUtils.class
+com/sereneoasis/SereneVideo.class
+com/sereneoasis/command/SerenityCommand.class
+com/sereneoasis/video/MapRenderMan.class
+com/sereneoasis/video/MapStitcher.class
+com/sereneoasis/config/FileManager.class
